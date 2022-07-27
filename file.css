@@ -9,3 +9,98 @@
     border-radius: 2px;
     width: 70px;
 }
+.divider-third{
+    background-color: red !important;
+    height: 3px !important;
+    border-radius: 2px;
+    width: 70px;
+    transform: skewY(1deg);
+}
+
+/* @media screen and (min-width: 320px){
+    .buy-now{
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+} */
+
+.buy-now{
+    padding-left: 35px !important;
+    padding-right: 35px !important;
+    padding-top: 10px !important;
+    padding-bottom: 12px !important;
+}
+.btn-1{
+    border-color: white !important;
+    margin-top: 25px;
+    margin-bottom: 35px;
+}
+
+.Pricing-1{
+    background-color:black;
+    transform: skewy(-3deg);
+    padding-bottom: 80px;
+    padding-top: 40px;
+}
+.Team{
+    background-color:black;
+    transform: skewy(-3deg);
+    padding-bottom: 80px;
+    padding-top: 40px;
+}
+
+.background{
+    background-color: rgb(48, 47, 47);
+    border-radius: 10px;
+}
+
+.skew-3{
+    transform: skewy(1deg)
+}
+
+.skew-1{
+    transform: skewY(2deg);
+}
+
+.skew-2{
+    transform: skewY(1deg);
+}
+
+.pad{
+    padding-left: 80px !important;
+    font-style: italic;
+    font-size: 17px;
+}
+
+.Team{
+    transform: skewY(-3deg);
+}
+
+.team-1{
+    transform: skewY(3deg);
+}
+
+.team-2{
+    transform: skewY(3deg);
+}
+
+.team-3{
+    transform: skewY(3deg);
+}
+.divider-lefty{
+    background-color: red !important;
+    height: 3px !important;
+    border-radius: 2px;
+    width: 70px;
+    transform: skewY(3deg);
+}
+.divide{
+    background-color: red !important;
+    height: 3px !important;
+    border-radius: 2px;
+    width: 70px;
+}
+
+.color{
+    color: rgb(158, 153, 153);
+}
