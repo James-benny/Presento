@@ -3,6 +3,10 @@
     color: white
 }
 
+.Portfolioo{
+    margin-top: 100px;
+    margin-bottom: 80px !important;
+}
 .divider-left{
     background-color: black !important;
     height: 3px !important;
@@ -50,7 +54,7 @@
 }
 
 .background{
-    background-color: rgb(48, 47, 47);
+    background-color: rgb(27, 27, 27);
     border-radius: 10px;
 }
 
@@ -67,9 +71,10 @@
 }
 
 .pad{
-    padding-left: 80px !important;
+    /* padding-left: 80px !important; */
     font-style: italic;
     font-size: 17px;
+    padding-top: 10px;
 }
 
 .Team{
@@ -103,4 +108,80 @@
 
 .color{
     color: rgb(158, 153, 153);
+}
+
+.send{
+    border-radius:3px !important;
+}
+
+.accordion-button:hover{
+    color:rgb(221, 18, 18);
+}
+
+.accordion-button{
+    font-size: 19px !important;
+}
+
+.accordion-body{
+    font-size: 18px !important;    
+}
+
+.shadoww{
+    box-shadow: 1px 1px 10px;
+}
+
+.listi{
+    list-style-type: none !important;
+    text-decoration: none !important;
+    color: white !important;
+    padding-left: 5px !important;
+}
+
+.listin{
+    list-style-type: none !important;
+    text-decoration: none !important;
+    color: rgb(179, 175, 175) !important;
+    padding-left: 5px !important;
+    line-height: 40px;
+}
+
+.listin:hover{
+    color: white !important;
+}
+
+.design{
+    color: rgb(196, 10, 10);
+    text-decoration: none;
+}
+
+.last-footer{
+    background-color: rgb(0, 0, 0);
+}
+
+.bx{
+    color: rgb(253, 230, 230);
+    font-size: 20px;
+}
+
+.box{
+    border-radius: 15px !important;
+}
+
+.boxx{
+    border-radius: 5px !important;
+}
+
+.socials{
+    background-color: rgb(36, 35, 35) !important;
+    margin-left: 6px;
+    border: none;
+}
+
+.socials:hover{
+    background-color: rgb(214, 52, 52) !important;
+    border: none;
+}
+
+.footer{
+    background-color: rgb(14, 13, 13);
 }
