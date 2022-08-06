@@ -171,6 +171,15 @@
     border-radius: 5px !important;
 }
 
+/* @media screen and (max-width:600px){
+    .boxx{
+        width: 120px;
+        height: 120px;
+    }
+} */
+
+
+
 .socials{
     background-color: rgb(36, 35, 35) !important;
     margin-left: 6px;
