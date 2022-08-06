@@ -169,7 +169,7 @@
 
 .boxx{
     border-radius: 5px !important;
-    min-height: auto;
+    height:200px;
 }
 
 /* @media screen and (max-width:600px){
