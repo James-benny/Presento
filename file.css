@@ -193,3 +193,10 @@
 .footer{
     background-color: rgb(14, 13, 13);
 }
+
+.divide-1{
+    background-color: red !important;
+    height: 3px !important;
+    border-radius: 2px;
+    width: 70px;
+}
